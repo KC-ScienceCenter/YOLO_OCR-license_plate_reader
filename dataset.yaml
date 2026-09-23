@@ -1,0 +1,7 @@
+path: C:/Users/utsav/OneDrive/Desktop/license plate detector
+
+train: images/train
+val: images/val
+
+nc: 1
+names: ['license_plate']
